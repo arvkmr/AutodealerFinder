@@ -1,0 +1,179 @@
+
+option {
+width : 120px;
+}
+body {
+    background-color: rgba(28, 10, 57, 1) ;
+
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color:  grey;
+    margin: 5px
+    padding: 0;
+}
+
+
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	
+
+} 
+
+.title {
+text-align:center;
+font-family:"Berlin Sans FB"; 
+font-size: 72px;
+
+margin-left: auto;
+margin-right: auto;
+overflow:hidden;
+width: 1000px;
+height:auto;
+overflow:hidden
+}
+
+
+.container {
+text-align:center;
+background-color: rgba(231, 228, 228, 1);
+ margin-bottom:10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border-style: solid; border-width:10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+width:70%;
+height:auto;
+overflow:hidden;
+}
+
+h2, h3 { text-align: center; }
+
+html {
+    height: auto;
+}
+
+.canvas {
+ margin-bottom:10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border-style: solid;
+border-width:5px;
+height:470px;
+
+}
+.row {
+	margin: 20px
+    padding:10px;
+margin-left: auto;
+ 	margin-right: auto;
+	width: 800px;
+
+}
+
+.results {
+ margin-bottom:10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border-style: solid;
+border-width:5px;
+padding:10px;
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+height:600px;
+
+}
+
+label {
+
+    width:180px;
+    clear:left;
+    text-align:center;
+    padding-right:10px;
+    float:left;
+
+
+}
+
+
+
+input, select, option{
+ border-radius: 2px;
+ border-color: grey;
+ margin-bottom:10px;
+width:160px;
+}
+
+ 
+
+.incontainer {
+
+ padding:10px;
+ margin-bottom:10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border-style: solid;
+ border-width:5px;
+	margin-left: auto;
+ 	margin-right: auto;
+    	width:50%;
+    	height:auto;
+}
+
+
+.resultcontainer {
+
+ margin-bottom:10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border-style: solid;
+ border-width:5px;
+	margin-left: auto;
+ 	margin-right: auto;
+    	width:75%;
+    	height:230px;
+}
+
+table {
+
+
+border-style: solid;
+border-width:3px;
+ margin-bottom:40px;
+margin-left: auto;
+margin-right: auto;
+CELLPADDING="4px"; CELLSPACING="3px";
+width:95%;
+height:auto;
+align:"left";
+
+}
+
+tr, td, th {
+color:  black;
+text-align:left;
+border-style: solid;
+border-width:3px;
+
+
+}
+
+.uinfo {
+
+ margin-bottom:10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border-style: solid;
+ border-width:5px;
+	margin-left: auto;
+ 	margin-right: auto;
+    	width:50%;
+    	height:300px;
+}
+
+
